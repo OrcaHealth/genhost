@@ -74,7 +74,7 @@ archer
 archive
 arctic
 arena
-ariel
+#ariel
 arizona
 armada
 armor
@@ -122,7 +122,7 @@ banana
 bandit
 banjo
 bank
-barbara
+#barbara
 barcode
 baron
 basic
@@ -214,7 +214,7 @@ camel
 camera
 camilla
 campus
-canada
+#canada
 canal
 canary
 candid
@@ -432,7 +432,7 @@ drink
 driver
 druid
 drum
-dublin
+#dublin
 duet
 dynamic
 dynasty
@@ -536,8 +536,8 @@ fish
 flag
 flame
 flash
-flex
-flipper
+#flex
+#flipper
 float
 flood
 floor
@@ -552,7 +552,7 @@ forbid
 ford
 forest
 forever
-forget
+#forget
 formal
 format
 formula
@@ -1100,7 +1100,7 @@ period
 permit
 person
 peru
-phantom
+#phantom
 philips
 phoenix
 phone
@@ -1383,7 +1383,7 @@ sofia
 solar
 solid
 solo
-sonar
+#sonar
 sonata
 song
 sonic
@@ -1629,5 +1629,5 @@ zebra
 zero
 zigzag
 zipper
-zodiac
+#zodiac
 zoom
